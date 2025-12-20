@@ -1,3 +1,4 @@
-Name: Hrishi
-Age: 27
-Favourite color: Blue
+Name: Yoga
+Age: 30
+Favourite color: Red
+
