@@ -1,4 +1,4 @@
 Name: Yoga
 Age: 30
 Favourite color: Red
-
+Date of Birth: xx.xx.xxxx
